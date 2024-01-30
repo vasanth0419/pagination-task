@@ -111,7 +111,7 @@
 
 ##### codes in script tag
 
-###### code this inside the emd of body tag
+###### code this inside the end of body tag
 
 ```
   <script src="./js/script.js"></script>
