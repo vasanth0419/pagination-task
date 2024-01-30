@@ -1,4 +1,4 @@
-# TASK PAGINATION SUMMITED..
+# TASK PAGINATION SUMMITION..
 
 #### **Pagination in DOM Manipulation using git hub details given..**
 
